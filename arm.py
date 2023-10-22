@@ -9,7 +9,7 @@ link_colors = ['r', 'g', 'b', 'c', 'm', 'y']
 # Initialize joint angles (in radians) as a NumPy array
 joint_angles = np.zeros(6)
 
-# Specify the target position (replace with your desired coordinates)
+# Specify the target position 
 target_x = 10.0
 target_y = 10.0
 
